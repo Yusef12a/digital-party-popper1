@@ -1,0 +1,16 @@
+# Birthday website
+- [x] Create the pastel birthday experience and gift chapters.
+- [x] Add animated confetti and mobile layouts.
+- [x] Verify gift navigation and replay on desktop and mobile.
+- [x] Add name and birth date config (`src/birthday-config.ts`) with live countdown, age balloons and birthday-day detection.
+- [x] Change cake motion to a gentle sideways sway.
+- [x] Restore the song and candle-blowing chapters using the uploaded references.
+- [x] Verify playback, hold-to-blow, microphone fallback, and mobile layout.
+- [x] Translate the experience into Arabic, use elegant Arabic typography and RTL layout, and expand the welcome compliments.
+- [x] Show the four compliments one after another instead of all at once.
+- [x] Add a "Bald"/coming-soon start page with a countdown that opens the surprise when the timer ends.
+- [x] Unlock on 31.10.2026 12:00 Syria time (Asia/Damascus) and keep a developer preview via ?vorschau=1.
+- [x] Add configurable personal photos with captions and verify the memories chapter.
+- [x] Disable the coming-soon timer page and use casual Syrian Arabic.
+- [x] Limit confetti to short bursts on gift opening and extinguishing all candles; verify both flows.
+- [ ] Add denser confetti, a two-second gift-opening delay, and a repeating candle celebration; verify both.
